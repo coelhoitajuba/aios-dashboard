@@ -37,7 +37,7 @@ const LEGACY_DOMAIN_MAP: Record<string, DomainKey> = {
 
 // Per-squad overrides when default domain mapping doesn't apply
 const SQUAD_DOMAIN_OVERRIDES: Record<string, DomainKey> = {
-  'c-level': 'strategy',
+  'aiox-workspace': 'strategy',
   'data': 'technical',
   'spy': 'marketing',
   'design': 'brand',
